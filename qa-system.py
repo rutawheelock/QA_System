@@ -18,19 +18,6 @@ Example:
 import sys
 import wptools
 
-# Helper functions
-
-# Check if the question starts with Who, What, When or Where
-def valid_input(some_input):
-    word_list = str(some_input).lower().split()
-    allowed_questions = ['who', 'what', 'when', 'where']
-    
-    if word_list[0] in allowed_questions:
-        return True
-    else:
-        return False
-
-
 
 def main():
 
@@ -39,32 +26,54 @@ def main():
         print "Please provide log file as a second command line argument."
         exit(1)
 
-    # Save the log file name
-    log_file = str(sys.argv[1])
-    print "Log file name: %s" % log_file
-
+    # Get the log file name
+    log_file_name = str(sys.argv[1])
+    # Open the log file
+    log_file = open(log_file_name, 'w')
 
     print "\n*** This is a QA system by Ruta Wheelock."
     print " It will try to answer questions that start with Who, What, When or Where."
     print " Enter \"exit\" to close the program."
 
+    # List of allowed question types
+    allowed_questions = ['who', 'what', 'when', 'where']
+
+    # Keep reading in questions and finding answers until user types 'exit'
     while True:
         question = raw_input("=?> ")
         if str(question) == "exit":
             break
 
-        if not valid_input(question):
-            print "=> The question has to start with Who, What, When or Where"
-        else:
-            word_list = str(question).lower().split()
+        word_list = str(question).split()
+        first_word = word_list[0].lower()
+        
+        # validate if the question starts with allowed keywords
+        if first_word not in allowed_questions:
+            print "=> The question has to start with Who, What, When or Where."
+            continue
+        
 
-            print word_list
-            #Strip the question mark
-            subject = " ".join(word_list[2:])
-            print subject
-            pages = wptools.page(subject)
-            print pages.get()
+        # Processing WHO and WHAT questions
+        if first_word == 'who' or first_word == 'what':
 
+            # Question is of type: 'Who/what is/was somebody/something?'
+            if word_list[1] == 'is' or word_list[1] == 'was':
+                # Strip the question mark
+                word_list[-1] = word_list[-1].strip('?')
+                subject = ' '.join(word_list[2:])
+
+                try:
+                    page = wptools.page(subject).get_query(show=False)
+                    answer = page.data['description']
+                    reply = "=> Answer: {0} {1} {2}.".format(subject, word_list[1], answer)
+                    print reply
+                except LookupError:
+                    print "Sorry, I can't answer that."
+                    continue
+                
+
+    # Close the log file
+    log_file.close()
 
 
 
