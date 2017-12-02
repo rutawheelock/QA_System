@@ -17,7 +17,7 @@ Example:
 
 import sys
 import wptools
-
+import re
 
 def main():
 
@@ -26,9 +26,8 @@ def main():
         print "Please provide log file as a second command line argument."
         exit(1)
 
-    # Get the log file name
-    log_file_name = str(sys.argv[1])
     # Open the log file
+    log_file_name = str(sys.argv[1])
     log_file = open(log_file_name, 'w')
 
     print "\n*** This is a QA system by Ruta Wheelock."
@@ -45,6 +44,8 @@ def main():
             break
 
         word_list = str(question).split()
+        # Strip the question mark
+        word_list[-1] = word_list[-1].strip('?')
         first_word = word_list[0].lower()
         
         # validate if the question starts with allowed keywords
@@ -57,9 +58,7 @@ def main():
         if first_word == 'who' or first_word == 'what':
 
             # Question is of type: 'Who/what is/was somebody/something?'
-            if word_list[1] == 'is' or word_list[1] == 'was':
-                # Strip the question mark
-                word_list[-1] = word_list[-1].strip('?')
+            if word_list[1] == 'is' or word_list[1] == 'was':        
                 subject = ' '.join(word_list[2:])
 
                 try:
@@ -70,7 +69,20 @@ def main():
                 except LookupError:
                     print "Sorry, I can't answer that."
                     continue
-                
+
+                try:
+                    page = wptools.page(subject).get_query(show=False)
+                    extract = page.data['extract'].split('</p>')
+
+                    findAnswerRE = re.compile(r'.*(?P<answer>\b(is|are|was|were)\b \b(a|an|the)\b (\w+\s*)+)[,.].*', re.IGNORECASE)
+                    findings = findAnswerRE.match(extract[0])
+                    answer = findings.group('answer')
+                    reply = "=> Answer: {0} {1}.".format(subject, answer)
+                    print reply
+                    
+                except LookupError, AttributeError:
+                    print "Sorry, I can't answer that."
+                    continue
 
     # Close the log file
     log_file.close()
