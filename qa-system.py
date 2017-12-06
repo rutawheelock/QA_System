@@ -11,7 +11,7 @@ factual questions using Wikipedia as a source.
 A user can enter a question and the program
 will generate and display an answer. 
 In cases when the answer can't be found, the program 
-will output "Sorry, I can't answerd that."
+will output "Sorry, I can't answer that."
 
 To run the program, execute:
 $./qa-system.py log_file.txt
@@ -19,13 +19,13 @@ The second argument is a name of a log file
 where the program records user questions, performed queries,
 and retrieved results.
 
-To exit the program type 'exit' in a promt.
+To exit the program type 'exit' in a prompt.
 
 Algorithm:
 The program parses user input and determines a search term.
-The search term is used to get a wikipedia page.
+The search term is used to get a Wikipedia page.
 For each question type regular expressions are used
-to find a matching fragment in wikipedia extract.
+to find a matching fragment in Wikipedia extract.
 If a match is found, the search term is combined with
 the match and displayed to the output.
 If there is no match, the program will inform the user
@@ -99,7 +99,7 @@ def main():
             continue
         
 
-        # Processing Queations with is/was/are/were as a second word
+        # Processing Questions with is/was/are/were as a second word
         if word_list[1] in ['is', 'was', 'are', 'were']:        
 
             # Retrieve search term, remove determiner.
@@ -122,9 +122,9 @@ def main():
             log_file.write("Search term: {}\n".format(subject))
                 
             try:
-                # Retrieve wikipedia page with the same title as the  subject
+                # Retrieve Wikipedia page with the same title as the subject
                 page = wptools.page(subject, silent=True).get_query(show=False)
-                # Get the extract of wikipedia page and split in paragraphs
+                # Get the extract of Wikipedia page and split in paragraphs
                 extract = page.data['extract'].split('</p>')
 
                 # Clean up the extract text
@@ -179,7 +179,7 @@ def main():
                 else:
                     # Compile regular expressions that look for patterns:
 
-                    # (verb2) optional (on) followed by two digits, a word, optional , or . followed by four digits
+                    # (verb2) optional (on) followed by two digits, a word, optional (, or .) followed by four digits
                     # Example matches: /born 10 January 1200/ /founded on 2 February, 1999/
                     When_RE_dd_Month_dddd = re.compile(r'(?P<answer>{} (\bon\b)?\s?\d\d? \b(\w+)\b[,.]? \d\d\d\d)'.format(verb2), re.IGNORECASE)
 
@@ -204,7 +204,7 @@ def main():
                 print reply
                 log_file.write("Reply: \n{}\n".format(reply))
 
-            # If the Wikipedia lookup fails or nothing mathes,
+            # If the Wikipedia lookup fails or nothing matches,
             # print default reply
             except (AttributeError, LookupError):
                 print reply
