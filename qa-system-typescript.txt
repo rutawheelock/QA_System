@@ -1,0 +1,52 @@
+Script started on Wed 06 Dec 2017 05:11:23 PM CST
+[4mukko[24m:[1m~/CS_5761/assignments/QA_System[0m% ./qa-system.py log_file.txt
+
+*** This is a QA system by Ruta Wheelock.
+ It will try to answer questions that start with Who, What, When or Where.
+ Enter "exit" to close the program.
+=?> What is Iroquois?
+=> Answer: Iroquois are a historically powerful northeast Native American confederacy.
+=?> What was the silk road?
+=> Answer: Silk Road was an ancient network of trade routes that were for centuries central to cultural interaction originally through regions of Eurasia connecting the East and West and stretching from the Korean peninsula and Japan to the Mediterranean Sea.
+=?> What is gravity?
+=> Answer: Gravity is a natural phenomenon by which all things with mass are brought toward (or gravitate toward) one another.
+=?> What year did Michael Jackson die?
+=> Sorry, I can't answer that.
+=?> What was Eminem’s first album?
+=> Sorry, I can't answer that.
+=?> Who was Tecumseh?
+=> Answer: Tecumseh was a Native American Shawnee warrior and chief.
+=?> Who is Raimonds Pauls?
+=> Answer: Raimonds Pauls is a Latvian composer and piano player who is well known in Latvia.
+=?> Who invented the World Wide Web?
+=> Sorry, I can't answer that.
+=?> Who was the first person in space?
+=> Answer: First Person In Space was a Soviet pilot and cosmonaut.
+=?> Who is an author of the Glass Bead Game?
+=> Sorry, I can't answer that.
+=?> When was Latvia established?
+=> Answer: Latvia was established on 18 November 1918.
+=?> When was Rachel Atherton born?
+=> Answer: Rachel Atherton was born 6 December 1987.
+=?> When was the Eiffel Tower finished?
+=> Answer: Eiffel Tower was finished in 1930.
+=?> When was the Great Fire of Rome?
+=> Sorry, I can't answer that.
+=?> When was the Beatles break-up?
+=> Answer: Beatles was break-up in 1970.
+=?> Where is Taj Mahal?
+=> Answer: Taj Mahal is on the south bank of the Yamuna river in the Indian city of Agra.
+=?> Where is lake Baikal?
+=> Answer: Lake Baikal is located in southern Siberia.
+=?> Where is Sigulda?
+=> Answer: Sigulda is in the Vidzeme Region of Latvia.
+=?> Where is BWCA?
+=> Answer: Bwca is in the 1900s and culminated in the Boundary Waters Canoe Area Wilderness Act of 1978.
+=?> Where is lake Superior?
+=> Answer: Lake Superior is in the world by surface area.
+=?> exit
+Have a great day!
+[4mukko[24m:[1m~/CS_5761/assignments/QA_System[0m% exit
+exit
+
+Script done on Wed 06 Dec 2017 05:15:18 PM CST

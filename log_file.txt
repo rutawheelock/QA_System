@@ -1,0 +1,209 @@
+
+Question: What is Iroquois?
+Search term: Iroquois
+Retrieved extract:
+The Iroquois ( or ) or Haudenosaunee () are a historically powerful northeast Native American confederacy. They were known during the colonial years to the French as the "Iroquois League," and later as the "Iroquois Confederacy," and to the English as the "Five Nations" (before 1722), and later as the "Six Nations," comprising the Mohawk, Onondaga, Oneida, Cayuga, Seneca, and Tuscarora peoples. 
+The Iroquois have absorbed many other peoples into their cultures as a result of warfare, adoption of captives, and by offering shelter to displaced peoples. 
+The historic Erie, Susquehannock, Wyandot (Huron), and St. Lawrence Iroquoians, all independent peoples, spoke Iroquoian languages. In the larger sense of linguistic families, they are often considered Iroquoian peoples because of their similar languages and cultures, all culturally and linguistically descended from the Proto-Iroquoian people and language; however, they were traditionally enemies of the nations in the Iroquois League. 
+In 2010, more than 45,000 enrolled Six Nations people lived in Canada, and about 80,000 in the United States. 
+Processing 'what' question:
+Retrieved answer: are a historically powerful northeast Native American confederacy
+Reply: 
+=> Answer: Iroquois are a historically powerful northeast Native American confederacy.
+
+Question: What was the silk road?
+Search term: silk road
+Retrieved extract:
+The Silk Road or Silk Route was an ancient network of trade routes that were for centuries central to cultural interaction originally through regions of Eurasia connecting the East and West and stretching from the Korean peninsula and Japan to the Mediterranean Sea. The Silk Road concept refers to both the terrestrial and the maritime routes connecting Asia with Africa, the Middle East and southern Europe. The overland Steppe route stretching through the Eurasian steppe is considered the ancestor to the Silk Road(s). 
+The term refers to a many similar routes taken by traders primarily between Arabia, India and China but also to Tanzania (Zanzibar) in the south, Asia Minor and Southern Europe. While the term is of modern coinage, the Silk Road derives its name from the lucrative trade in silk (and horses) carried out along its length, beginning during the Han dynasty (207 BCE  220 CE). The Han dynasty expanded Central Asian sections of the trade routes around 114 BCE, largely through missions and explorations of the Chinese imperial envoy, Zhang Qian. The Chinese took great interest in the safety of their trade products and extended the Great Wall of China to ensure the protection of the trade route. 
+Trade on the Silk Road played a significant role in the development of the civilizations of China, the Goguryeo kingdom (Korea), Japan, the Indian subcontinent, Persia, Europe, the Horn of Africa and Arabia, opening long-distance political and economic relations between the civilizations. Though silk was certainly the major trade item exported from China, many other goods were traded, as well as religions, syncretic philosophies, and various technologies. Diseases, most notably plague, also spread along the Silk Routes. In addition to economic trade, the Silk Road was a route for cultural trade among the civilizations along its network. 
+The main traders during antiquity included the Chinese, Arabs, Indian, Somalis, Syrians, Jews, Persians, Greeks, Romans, Georgians, Armenians, Bactrians, Turkmens, and (from the 5th to the 8th century) the Sogdians. 
+In June 2014, UNESCO designated the Chang'an-Tianshan corridor of the Silk Road as a World Heritage Site. The Indian portion is on the tentative site list. 
+Processing 'what' question:
+Retrieved answer: was an ancient network of trade routes that were for centuries central to cultural interaction originally through regions of Eurasia connecting the East and West and stretching from the Korean peninsula and Japan to the Mediterranean Sea
+Reply: 
+=> Answer: Silk Road was an ancient network of trade routes that were for centuries central to cultural interaction originally through regions of Eurasia connecting the East and West and stretching from the Korean peninsula and Japan to the Mediterranean Sea.
+
+Question: What is gravity?
+Search term: gravity
+Retrieved extract:
+Gravity, or gravitation, is a natural phenomenon by which all things with mass are brought toward (or gravitate toward) one another, including objects ranging from atoms and photons, to planets and stars. Since energy and mass are equivalent, all forms of energy (including light) cause gravitation and are under the influence of it. On Earth, gravity gives weight to physical objects, and the Moon's gravity causes the ocean tides. The gravitational attraction of the original gaseous matter present in the Universe caused it to begin coalescing, forming stars  and for the stars to group together into galaxies  so gravity is responsible for many of the large scale structures in the Universe. Gravity has an infinite range, although its effects become increasingly weaker on farther objects. 
+Gravity is most accurately described by the general theory of relativity (proposed by Albert Einstein in 1915) which describes gravity not as a force, but as a consequence of the curvature of spacetime caused by the uneven distribution of mass. The most extreme example of this curvature of spacetime is a black hole, from which nothingnot even lightcan escape once past the black hole's event horizon. However, for most applications, gravity is well approximated by Newton's law of universal gravitation, which describes gravity as a force which causes any two bodies to be attracted to each other, with the force proportional to the product of their masses and inversely proportional to the square of the distance between them. 
+Gravity is the weakest of the four fundamental forces of physics, approximately 1038 times weaker than the strong force, 1036 times weaker than the electromagnetic force and 1029 times weaker than the weak force. As a consequence, it has no significant influence at the level of subatomic particles. In contrast, it is the dominant force at the macroscopic scale, and is the cause of the formation, shape and trajectory (orbit) of astronomical bodies. For example, gravity causes the Earth and the other planets to orbit the Sun, it also causes the Moon to orbit the Earth, and causes the formation of tides, the formation and evolution of the Solar System, stars and galaxies. 
+The earliest instance of gravity in the Universe, possibly in the form of quantum gravity, supergravity or a gravitational singularity, along with ordinary space and time, developed during the Planck epoch (up to 1043 seconds after the birth of the Universe), possibly from a primeval state, such as a false vacuum, quantum vacuum or virtual particle, in a currently unknown manner. Attempts to develop a theory of gravity consistent with quantum mechanics, a quantum gravity theory, which would allow gravity to be united in a common mathematical framework (a theory of everything) with the other three forces of physics, are a current area of research. 
+ 
+
+ 
+
+Processing 'what' question:
+Retrieved answer: is a natural phenomenon by which all things with mass are brought toward (or gravitate toward) one another
+Reply: 
+=> Answer: Gravity is a natural phenomenon by which all things with mass are brought toward (or gravitate toward) one another.
+
+Question: What year did Michael Jackson die?
+Reply: 
+=> Sorry, I can't answer that.
+
+Question: What was Eminem’s first album?
+Search term: Eminem’s first album
+Reply: 
+=> Sorry, I can't answer that.
+
+Question: Who was Tecumseh?
+Search term: Tecumseh
+Retrieved extract:
+Tecumseh  ti-KUM-s, ti-KUM-see (March 1768  October 5, 1813) was a Native American Shawnee warrior and chief, who became the primary leader of a large, multi-tribal confederacy in the early years of the nineteenth century. Born in the Ohio Country (present-day Ohio), and growing up during the American Revolutionary War and the Northwest Indian War, Tecumseh was exposed to warfare and envisioned the establishment of an independent Indian nation east of the Mississippi River under British protection and worked to recruit additional members to his tribal confederacy from the southern United States. 
+Tecumseh was among the most celebrated Indian leaders in history and was known as a strong and eloquent orator who promoted tribal unity. He was also ambitious, willing to take risks, and make significant sacrifices to repel the Americans from Indian lands in the Old Northwest Territory. In 1808, with his brother Tenskwatawa ("The Prophet"), Tecumseh founded the Indian village the Americans called Prophetstown, located north of present-day Lafayette, Indiana. Prophetstown grew into a large, multi-tribal community and a central point in Tecumseh's political and military alliance. 
+Tecumseh's confederation fought the Americans during Tecumseh's War, but he was unsuccessful in getting the U.S. government to rescind the Treaty of Fort Wayne (1809) and other land-cession treaties. In 1811, as he traveled south to recruit more allies, his brother Tenskwatawa initiated the Battle of Tippecanoe against William Henry Harrison's army, but the Indians retreated from the field and the Americans burned Prophetstown. Although Tecumseh remained the military leader of the pan-Indian confederation, his plan to enlarge the Indian alliance was never fulfilled. 
+Tecumseh and his confederacy continued to fight the Americans after forming an alliance with Great Britain in the War of 1812. During the war, Tecumseh's confederacy helped in the capture of Fort Detroit. However, after U.S. naval forces took control of Lake Erie in 1813, the British and their Indian allies retreated into Upper Canada, where the American forces engaged them at the Battle of the Thames on October 5, 1813, and Tecumseh was killed. His death and the end of the war caused the pan-Indian alliance to collapse in failure. Within a few years, the remaining tribal lands in the Old Northwest were ceded to the U.S. government and subsequently opened for new settlement and most of the American Indians eventually moved west, across the Mississippi River. Since his death Tecumseh has become an iconic folk hero in American, Aboriginal and Canadian history. 
+Processing 'who' question:
+Retrieved answer: was a Native American Shawnee warrior and chief
+Reply: 
+=> Answer: Tecumseh was a Native American Shawnee warrior and chief.
+
+Question: Who is Raimonds Pauls?
+Search term: Raimonds Pauls
+Retrieved extract:
+Ojars Raimonds Pauls (born 12 January 1936 in Ilguciems, Riga, Latvia) is a Latvian composer and piano player who is well known in Latvia, Russia, post-Soviet countries and world-wide. He was the Minister of culture of Latvia from 1988 to 1993. 
+ 
+
+ 
+
+Processing 'who' question:
+Retrieved answer: is a Latvian composer and piano player who is well known in Latvia
+Reply: 
+=> Answer: Raimonds Pauls is a Latvian composer and piano player who is well known in Latvia.
+
+Question: Who invented the World Wide Web?
+Reply: 
+=> Sorry, I can't answer that.
+
+Question: Who was the first person in space?
+Search term: first person in space
+Retrieved extract:
+Yuri Alekseyevich Gagarin (Russian:   , IPA: [jrjj ljksjejvjt arjn]; 9 March 1934  27 March 1968) was a Soviet pilot and cosmonaut. He was the first human to journey into outer space, when his Vostok spacecraft completed an orbit of the Earth on 12 April 1961. 
+Gagarin became an international celebrity, and was awarded many medals and titles, including Hero of the Soviet Union, the nation's highest honour. Vostok 1 marked his only spaceflight, but he served as backup crew to the Soyuz 1 mission (which ended in a fatal crash). Gagarin later became deputy training director of the Cosmonaut Training Centre outside Moscow, which was later named after him. Gagarin died in 1968 when the MiG-15 training jet he was piloting crashed. The Federation Aeronautique Internationale awards the Yuri A. Gagarin Gold Medal in his honor. 
+ 
+Processing 'who' question:
+Retrieved answer: was a Soviet pilot and cosmonaut
+Reply: 
+=> Answer: First Person In Space was a Soviet pilot and cosmonaut.
+
+Question: Who is an author of the Glass Bead Game?
+Search term: author of the Glass Bead Game
+Reply: 
+=> Sorry, I can't answer that.
+
+Question: When was Latvia established?
+Search term: Latvia
+Retrieved extract:
+Latvia,  ( listen); Latvian: Latvija [latvija]), officially the Republic of Latvia (Latvian: Latvijas Republika), is a country in the Baltic region of Northern Europe, one of the three Baltic states. It is bordered by Estonia to the north, Lithuania to the south, Russia to the east, and Belarus to the southeast, as well as sharing a maritime border with Sweden to the west. Latvia has 1,957,200 inhabitants and a territory of 64,589 km2 (24,938 sq mi). The country has a temperate seasonal climate. 
+After centuries of Swedish, Livonian, Polish and Russian rule, a rule mainly executed by the privileged Baltic German aristocracy, the Republic of Latvia was established on 18 November 1918 after declaring independence from Russia in the aftermath of World War I. However, by the 1930s, the country became increasingly autocratic after the coup in 1934 establishing an authoritarian regime under Karlis Ulmanis. The country's de facto independence was interrupted at the outset of World War II, beginning with Latvia's forcible incorporation into the Soviet Union, followed by the invasion and occupation by Nazi Germany in 1941, and the re-occupation by the Soviets in 1944 to form the Latvian SSR for the next fifty years. The peaceful Singing Revolution, starting in 1987, called for Baltic emancipation from Soviet rule and condemning the "Stalinist" regime's illegal takeover. It ended with the Declaration on the Restoration of Independence of the Republic of Latvia on 4 May 1990, and restoring de facto independence on 21 August 1991. 
+Latvia is a democratic republic and a highly developed country. Its capital Riga served as the European Capital of Culture in 2014. Latvian is the official language. Latvia is a unitary state, divided into 119 administrative divisions, of which 110 are municipalities and 9 are cities. Latvians are the indigenous people of Latvia. Latvian and Lithuanian are the only two surviving Baltic languages. Despite foreign rule from the 13th to 20th centuries, the Latvian nation maintained its identity throughout the generations via the language and musical traditions. As a consequence of centuries of Russian rule (17101918) and later Soviet occupation, Latvia is home to a large number of ethnic Russians (26.9% in Latvia), some of whom (14.1% of Latvian residents) have not gained citizenship, leaving them with no citizenship at all. Until World War II, Latvia also had significant minorities of ethnic Germans and Jews. Latvia is historically predominantly Protestant Lutheran, except for the Latgale region in the southeast, which has historically been predominantly Roman Catholic. The Russian population has also brought a significant portion of Eastern Orthodox Christians. 
+It is a member of the European Union, NATO, the Council of Europe, the United Nations, CBSS, the IMF, NB8, NIB, OECD, OSCE, and WTO. For 2014, Latvia was listed 46th on the Human Development Index and as a high income country on 1 July 2014. A full member of the Eurozone, it uses the euro as its currency since 1 January 2014, replacing the Latvian lats. 
+ 
+
+ 
+
+Processing 'when' question:
+Retrieved answer: established on 18 November 1918
+Reply: 
+=> Answer: Latvia was established on 18 November 1918.
+
+Question: When was Rachel Atherton born?
+Search term: Rachel Atherton
+Retrieved extract:
+Rachel Laura Atherton (born 6 December 1987, near Salisbury) is a professional racing cyclist specialising in downhill mountain bike racing, and is a multiple UCI World Champion. 
+Atherton began riding BMX at the age of 8 and mountain biking at the age of 11. She was both Sunday Times' Sportswoman of the Year and BBC Midlands Junior Sportswoman of the Year in 2005, and then BBC Midlands Sportswoman of the Year in 2008. In October 2015, a video of Atherton overtaking 91 competitors in five minutes during a race went viral. 
+Processing 'when' question:
+Retrieved answer: born 6 December 1987
+Reply: 
+=> Answer: Rachel Atherton was born 6 December 1987.
+
+Question: When was the Eiffel Tower finished?
+Search term: Eiffel Tower
+Retrieved extract:
+The Eiffel Tower ( EYE-fl TOW-r; French: tour Eiffel, pronounced [tufl]  listen) is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. 
+Constructed from 188789 as the entrance to the 1889 World's Fair, it was initially criticized by some of France's leading artists and intellectuals for its design, but it has become a global cultural icon of France and one of the most recognisable structures in the world. The Eiffel Tower is the most-visited paid monument in the world; 6.91 million people ascended it in 2015. 
+The tower is 324 metres (1,063 ft) tall, about the same height as an 81-storey building, and the tallest structure in Paris. Its base is square, measuring 125 metres (410 ft) on each side. During its construction, the Eiffel Tower surpassed the Washington Monument to become the tallest man-made structure in the world, a title it held for 41 years until the Chrysler Building in New York City was finished in 1930. Due to the addition of a broadcasting aerial at the top of the tower in 1957, it is now taller than the Chrysler Building by 5.2 metres (17 ft). Excluding transmitters, the Eiffel Tower is the second-tallest structure in France after the Millau Viaduct. 
+The tower has three levels for visitors, with restaurants on the first and second levels. The top level's upper platform is 276 m (906 ft) above the ground  the highest observation deck accessible to the public in the European Union. Tickets can be purchased to ascend by stairs or lift (elevator) to the first and second levels. The climb from ground level to the first level is over 300 steps, as is the climb from the first level to the second. Although there is a staircase to the top level, it is usually accessible only by lift. 
+ 
+
+ 
+
+Processing 'when' question:
+Retrieved answer: finished in 1930
+Reply: 
+=> Answer: Eiffel Tower was finished in 1930.
+
+Question: When was the Great Fire of Rome?
+Search term: Great Fire of
+Reply: 
+=> Sorry, I can't answer that.
+
+Question: When was the Beatles break-up?
+Search term: Beatles
+Retrieved extract:
+The Beatles were an English rock band formed in Liverpool in 1960. With members John Lennon, Paul McCartney, George Harrison and Ringo Starr, they became widely regarded as the foremost and most influential act of the rock era. Rooted in skiffle, beat and 1950s rock and roll, the Beatles later experimented with several musical styles, ranging from pop ballads and Indian music to psychedelia and hard rock, often incorporating classical elements and unconventional recording techniques in innovative ways. In 1963 their enormous popularity first emerged as "Beatlemania", and as the group's music grew in sophistication in subsequent years, led by primary songwriters Lennon and McCartney, they came to be perceived as an embodiment of the ideals shared by the counterculture of the 1960s. 
+The Beatles built their reputation playing clubs in Liverpool and Hamburg over a three-year period from 1960, with Stuart Sutcliffe initially serving as bass player. The core of Lennon, McCartney and Harrison went through a succession of drummers, including Pete Best, before asking Starr to join them in 1962. Manager Brian Epstein moulded them into a professional act, and producer George Martin guided and developed their recordings, greatly expanding their popularity in the United Kingdom after their first hit, "Love Me Do", in late 1962. They acquired the nickname "the Fab Four" as Beatlemania grew in Britain the next year, and by early 1964 became international stars, leading the "British Invasion" of the United States pop market. From 1965 onwards, the Beatles produced increasingly innovative recordings, including the albums Rubber Soul (1965), Revolver (1966), Sgt. Pepper's Lonely Hearts Club Band (1967), The Beatles (commonly known as the White Album, 1968) and Abbey Road (1969). After their break-up in 1970, they each enjoyed successful musical careers of varying lengths. McCartney and Starr, the surviving members, remain musically active. Lennon was shot and killed in December 1980, and Harrison died of lung cancer in November 2001. 
+The Beatles are the best-selling band in history, with estimated sales of over 800 million physical and digital albums worldwide. They have had more number-one albums on the British charts and sold more singles in the UK than any other act. They are also the best-selling music artists in the United States, with 178 million certified units. In 2008, the group topped Billboard magazine's list of the all-time most successful artists; as of 2017, they hold the record for most number-one hits on the Hot 100 chart with twenty. They have received seven Grammy Awards, an Academy Award for Best Original Song Score and fifteen Ivor Novello Awards. The group was inducted into the Rock and Roll Hall of Fame in 1988, and all four main members were inducted individually from 1994 to 2015. They were also collectively included in Time magazine's compilation of the twentieth century's 100 most influential people. 
+Processing 'when' question:
+Retrieved answer: break-up in 1970
+Reply: 
+=> Answer: Beatles was break-up in 1970.
+
+Question: Where is Taj Mahal?
+Search term: Taj Mahal
+Retrieved extract:
+The Taj Mahal (, more often ; meaning Crown of the Palace) is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his favourite wife, Mumtaz Mahal. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall. 
+Construction of the mausoleum was essentially completed in 1643 but work continued on other phases of the project for another 10 years. The Taj Mahal complex is believed to have been completed in its entirety in 1653 at a cost estimated at the time to be around 32 million rupees, which in 2015 would be approximately 52.8 billion rupees (U.S. $827 million). The construction project employed some 20,000 artisans under the guidance of a board of architects led by the court architect to the emperor, Ustad Ahmad Lahauri. 
+The Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being "the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage". Described by Nobel laureate Rabindranath Tagore as "the tear-drop on the cheek of time", it is regarded by many as the best example of Mughal architecture and a symbol of India's rich history. The Taj Mahal attracts 78 million visitors a year. In 2007, it was declared a winner of the New7Wonders of the World (20002007) initiative. 
+Processing 'where' question:
+Retrieved answer: on the south bank of the Yamuna river in the Indian city of Agra
+Reply: 
+=> Answer: Taj Mahal is on the south bank of the Yamuna river in the Indian city of Agra.
+
+Question: Where is lake Baikal?
+Search term: lake Baikal
+Retrieved extract:
+Lake Baikal (Russian:  , tr. Ozero Baykal, IPA: [ozjr bjka]; Russia Buriat:  , Baigal nuur; Mongolian:  , Baigal nuur, etymologically meaning, in Mongolian, "the Nature Lake") is a rift lake in Russia, located in southern Siberia, between Irkutsk Oblast to the northwest and the Buryat Republic to the southeast. 
+Lake Baikal is the largest freshwater lake by volume in the world, containing 2223% of the world's fresh surface water. With 23,615.39 km3 (5,670 cu mi) of fresh water, it contains more water than the North American Great Lakes combined. With a maximum depth of 1,642 m (5,387 ft), Baikal is the world's deepest lake. It is considered among the world's clearest lakes and is considered the world's oldest lake  at 25 million years. It is the seventh-largest lake in the world by surface area. 
+Like Lake Tanganyika, Lake Baikal was formed as an ancient rift valley, having the typical long, crescent shape with a surface area of 31,722 km2 (12,248 sq mi). Baikal is home to thousands of species of plants and animals, many of which exist nowhere else in the world. The lake was declared a UNESCO World Heritage Site in 1996. It is also home to Buryat tribes who reside on the eastern side of Lake Baikal, rearing goats, camels, cattle, and sheep, where the mean temperature varies from a winter minimum of 19 C (2 F) to a summer maximum of 14 C (57 F). 
+The region to the east of Lake Baikal is referred to as Transbaikalia, and the loosely defined region of the lake is sometimes known as Baikalia. 
+Processing 'where' question:
+Retrieved answer: located in southern Siberia
+Reply: 
+=> Answer: Lake Baikal is located in southern Siberia.
+
+Question: Where is Sigulda?
+Search term: Sigulda
+Retrieved extract:
+Sigulda ( pronunciation ; German: Segewold) is a town in the Vidzeme Region of Latvia, 53 kilometres (33 miles) from the capital city Riga. 
+Processing 'where' question:
+Retrieved answer: in the Vidzeme Region of Latvia
+Reply: 
+=> Answer: Sigulda is in the Vidzeme Region of Latvia.
+
+Question: Where is BWCA?
+Search term: BWCA
+Retrieved extract:
+The Boundary Waters Canoe Area Wilderness (BWCAW or BWCA), is a 1,090,000-acre (4,400 km2) wilderness area within the Superior National Forest in northeastern Minnesota (United States) under the administration of the U.S. Forest Service. A mixture of north woods forests and glacial lakes and streams, the BWCAW's preservation as a primitive wilderness began in the 1900s and culminated in the Boundary Waters Canoe Area Wilderness Act of 1978. It is a popular destination for both canoeing and fishing on its many lakes and is one of the most visited wildernesses in the United States. 
+Processing 'where' question:
+Retrieved answer: in the 1900s and culminated in the Boundary Waters Canoe Area Wilderness Act of 1978
+Reply: 
+=> Answer: Bwca is in the 1900s and culminated in the Boundary Waters Canoe Area Wilderness Act of 1978.
+
+Question: Where is lake Superior?
+Search term: lake Superior
+Retrieved extract:
+Lake Superior is the largest of the Great Lakes of North America. The lake is shared by the Canadian province of Ontario to the north, the US state of Minnesota to the west, and Wisconsin and the Upper Peninsula of Michigan to the south. It is generally considered the largest freshwater lake in the world by surface area. It is the world's third-largest freshwater lake by volume and the largest by volume in North America. The furthest north and west of the Great Lakes chain, Superior has the highest elevation and drains into the St. Mary's River. 
+ 
+
+ 
+
+Processing 'where' question:
+Retrieved answer: in the world by surface area
+Reply: 
+=> Answer: Lake Superior is in the world by surface area.
+
+Question: exit
