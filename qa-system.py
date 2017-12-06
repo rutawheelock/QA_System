@@ -19,6 +19,19 @@ import sys
 import wptools
 import re
 
+
+def clean_text(list_text):
+    for i, line in enumerate(list_text):
+        # Remove non-Ascii characters
+        list_text[i] = re.sub(r'[^\x00-\x7F]+','', line)
+        # Remove tags
+        list_text[i] = re.sub(r'<.*?>','', line)
+        list_text[i] = re.sub(r'{.*?}','', line)
+        list_text[i] = re.sub(r'[.*?]','', line)
+
+    return list_text
+
+
 def main():
 
     # If the user does not provide enough arguments, display message and exit with 1
@@ -57,13 +70,15 @@ def main():
         # Processing Queations with is/was/are/were as a second word
         if word_list[1] in ['is', 'was', 'are', 'were']:        
 
-            # Retrieve search term, do not include acticles.
+            # Retrieve search term, remove determiner
             if word_list[2] in ['a', 'an', 'the']:
                 subject = ' '.join(word_list[3:])
             else:
                 subject = ' '.join(word_list[2:])
 
-
+            verb1 = ''
+            verb2 = ''
+            
             if first_word == 'when':
                 subject = ' '.join(subject.split()[:-1])
                 verb1 = word_list[1]
@@ -86,9 +101,17 @@ def main():
                 whole_extract = ' '.join(extract)
 
                 # Regular expressions
-                Who_What_RE = re.compile(r'(?P<answer>\b(is|are|was|were)\b \b(a|an|the)\b .*?(?=[,.]\s))', re.IGNORECASE)
-                Where_RE = re.compile(r'(?P<answer>\b(on|in|located)\b \b(the|a|an|in)\b .*?(?=[,.]\s))', re.IGNORECASE)
-                When_RE = re.compile(r'{} {} (?P<answer>\b(on|in)\b .*?(?=[,.]\s))'.format( verb1, verb2), re.IGNORECASE)
+                Who_What_RE = re.compile(r'(?P<answer>\b(is|are|was|were)\b \b(a|an|the)\b .*?(?=[,.]\s))',
+                                         re.IGNORECASE)
+                Where_RE = re.compile(r'(?P<answer>\b(on|in|located)\b \b(the|a|an|in)\b .*?(?=[,.]\s))',
+                                      re.IGNORECASE)
+                When_RE = re.compile(r'{} {} (?P<answer>\b(on|in)\b .*?(?=[,.]\s))'.format(verb1, verb2),
+                                     re.IGNORECASE)
+                # Search for pattern /{born} on 10 January, 1200/ /{founded} 2 February 1999/
+                When_RE_dd_Month_dddd = re.compile(r'(?P<answer>{} (\bon\b)?\s?\d\d? \b(\w+)\b[,.]? \d\d\d\d)'.format(verb2), re.IGNORECASE)
+
+                # Search for patterns /{completed} in 2000/
+                When_RE_dddd = re.compile(r'(?P<answer>{} (\bin\b) \d\d\d\d)'.format(verb2), re.IGNORECASE)
 
                 
                 reply = "=> Sorry, I can't aswer that."
@@ -107,10 +130,17 @@ def main():
 
                 # Processing WHEN questions
                 else:
-                    findings = When_RE.search(whole_extract)
-                    answer = findings.group('answer')                     
-                    reply = "=> Answer: {0} {1} {2} on {3}.".format(subject.title(), verb1, verb2, answer)
 
+                    # Try dd_Month_ddd pattern first
+                    findings = When_RE_dd_Month_dddd.search(whole_extract)
+                    # If the previous pattern did not match, try dddd
+                    if not findings:
+                        findings = When_RE_dddd.search(whole_extract)
+                        
+                    answer = findings.group('answer')                     
+                    reply = "=> Answer: {0} {1} {2}.".format(subject.title(), verb1, answer)
+
+                    
                 print reply
                     
             except (AttributeError, LookupError):
@@ -118,7 +148,9 @@ def main():
                 continue
 
 
-            
+        # If the second word in the question is not is, are, was, were
+        else:
+            print "=> Sorry, I can't answer that."
 
     # Close the log file
     log_file.close()
